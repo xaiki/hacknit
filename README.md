@@ -2,7 +2,7 @@
 
 ## Bem vindo ao repositório do HackNit!
 
-Você deve escolher o repositório referente a um dos temas propostos:
+Cada equipe deve escolher o repositório referente a um dos temas propostos:
 
 - [Conservação](https://github.com/seplagniteroi/conservacao)
 - [Educação](https://github.com/seplagniteroi/educacao)
@@ -12,24 +12,29 @@ Você deve escolher o repositório referente a um dos temas propostos:
 - [Segurança](https://github.com/seplagniteroi/seguranca)
 - [Voluntariado](https://github.com/seplagniteroi/voluntariado)
 
-### Organização
+Em cada repositório há informações de como utilizar o GitHub para desenvolver sua proposta.
+
+### Contato
 
 Dúvidas sobre o GitHub ou repositórios? Instale o [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) e entre no nosso canal [HackNit](http://t.me/juliangutierrez).
 
-## Apresentação
+# Sobre o evento
 
 A Prefeitura de Niterói tem o prazer de receber tantas
 pessoas engajadas em pensar serviços mais
 inteligentes em favor da cidadania!
+
 O HackNIT foi concebido como um evento de inovação,
 que estimula a política de dados abertos no município.
 Essa é uma das iniciativas relacionadas ao objetivo de
 transformar Niterói em uma cidade mais inteligente.
+
 Entendemos que uma Smart City deve reduzir as
 desigualdades sociais, melhorar a qualidade de vida das
 pessoas e fornecer serviços públicos eficientes. Além de
 ser uma oportunidade de envolver a população na
 solução dos problemas da cidade.
+
 Cada participante tem a chance de ser um pouco gestor
 público quando sugere como resolver os desafios
 apresentados por meio de tecnologias digitais.
