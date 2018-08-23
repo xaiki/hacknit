@@ -16,7 +16,7 @@ Você deve escolher o repositório referente a um dos temas propostos:
 
 Dúvidas sobre o GitHub ou repositórios? Entre no canal do Telegram [juliangutierrez](http://t.me/juliangutierrez).
 
-### Apresentação
+## Apresentação
 
 A Prefeitura de Niterói tem o prazer de receber tantas
 pessoas engajadas em pensar serviços mais
@@ -39,9 +39,9 @@ MELHOR CIDADE DO BRASIL PARA SE
 VIVER E SER FELIZ*
 
 
-### Programação
+## Programação
 
-#### 24 de agosto
+### 24 de agosto
 
 **16h30** - Credenciamento
 
@@ -51,7 +51,7 @@ VIVER E SER FELIZ*
 
 **21h** - Início do HackNIT
 
-#### 25 de agosto
+### 25 de agosto
 *Mentorias ao longo de todo o dia*
 
 **08h** - Café da manhã
@@ -62,7 +62,7 @@ VIVER E SER FELIZ*
 
 **20h** - Hora da Pizza
 
-#### 26 de agosto
+### 26 de agosto
 
 **07h30** - Café da manhã
 
@@ -76,7 +76,7 @@ VIVER E SER FELIZ*
 
 **17h** - Cerimônia de entrega de premiação
 
-### Credenciamento
+## Credenciamento
 
 - Os participantes devem chegar à Cúpula do Conhecimento,
 local da competição, às 16h30min para credenciamento.
@@ -96,7 +96,7 @@ alguém da equipe;
 trabalho.
 
 
-### Alimentação
+## Alimentação
 
 - Uma estação de alimentação ficará disponível 24 horas.
 - O café da manhã será servido às 8:00h no sábado e às 7h30min,
@@ -107,7 +107,7 @@ do evento
 
 *MANTENHA-SE HIDRATADO! LEVE SEMPRE O COPO DO EVENTO COM VOCÊ E EVITE O USO DE COPOS PLÁSTICOS DESCARTÁVEIS*
 
-### Regras de Convivência
+## Regras de Convivência
 
 - Fume apenas nas áreas externas;
 - Descanso também é necessário, então colabore com o silêncio
@@ -133,7 +133,7 @@ participantes nessa ação que tem por objetivo estimular nas
 gerações futuras o interesse pela pesquisa e desenvolvimento de
 plataformas digitais.
 
-### Código de Conduta
+## Código de Conduta
 
 A organização do Hacknit se compromete a promover um ambiente
 livre de assédio para todas as pessoas. Não será tolerada qualquer
@@ -150,10 +150,11 @@ atenção sexual indesejada.
 Se você for assediado(a) ou perceber que alguém está sendo
 assediado(a) , por favor entre em contato com a organização para que
 medidas cabiveis sejam tomadas.
+
 *Este Código de Conduta foi adaptado a partir dos códigos de conduta utilizados pela Wildtech e estão
 licenciados sob a Creative Commons Attribution-Share Alike 3.0 Unported.*
 
-### Objetos Pessoais
+## Objetos Pessoais
 
 A organização da HackNit não se
 responsabiliza por objetos de uso pessoal
@@ -162,7 +163,7 @@ tomar as precauções e cuidados
 necessários para garantir a segurança de
 seus pertences.
 
-### Desafios
+## Desafios
 Os desafios serão apresentados pelos órgãos da
 administração pública em 7 temas diferentes:
 
@@ -174,7 +175,7 @@ administração pública em 7 temas diferentes:
 - Segurança
 - Voluntariado
 
-### Equipes
+## Equipes
 
 Os participantes poderão escolher nomes
 ou apelidos para suas equipes, porém,
@@ -183,9 +184,9 @@ serão identificadas por números cardinais
 (1,2,3...). Uma vez formada, a equipe não
 poderá ser alterada.
 
-### Dados Disponíveis
+## Dados Disponíveis
 
-#### Dados Abertos
+### Dados Abertos
 
 Um conjunto de dados georeferenciados será
 disponibilizado aos participantes para que
@@ -196,7 +197,7 @@ dados.geoniteroi.opendata.arcgis.com
 As soluções serão disponibilizadas sob licença
 livre em repositório compartilhado.
 
-### Duração
+## Duração
 
 Um cronômetro para a contagem regressiva do tempo da HackNit
 será projetado no interior da Cúpula do Conhecimento. Além disso,
@@ -209,7 +210,7 @@ equipe que não conseguir concluir todas as etapas dentro do tempo
 previsto, não terá o seu trabalho avaliado e, portanto, não irá
 concorrer à premiação.
 
-### Mentores
+## Mentores
 
 Ao longo da maratona, teremos mentores disponíveis para orientar
 o trabalho das equipes. Os mentores são profissionais de
@@ -223,7 +224,7 @@ formação das equipes de acordo com o tema de interesse.
 *CASO PRECISE, RECORRA A ELES, QUE ESTARÃO
 DISPOSTOS A AUXILIÁ-LOS!*
 
-### Avaliação das Propostas
+## Avaliação das Propostas
 
 As soluções devem ser apresentadas no formato de pitch, ou
 seja, uma apresentação direta e curta, com a intenção de
@@ -241,7 +242,7 @@ estabelecidos previamente:
 - Adequação ao tema
 - Aplicabilidade
 
-### Premiação
+## Premiação
 
 A entrega do prêmio será realizada até 30 dias após a
 publicação do resultado da HackNit no Diário Oficial do
