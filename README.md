@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+![Image](http://hacknit.com.br/wp-content/uploads/2018/07/logo-h-mini.png)
+
+## Bem vindo ao repositório do Hacknit!
+
+
+Você deve escolher o repositório referente a um dos temas propostos.
 
 You can use the [editor on GitHub](https://github.com/seplagniteroi/hacknit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +30,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+ 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
