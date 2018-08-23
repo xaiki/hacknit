@@ -14,9 +14,9 @@ Cada equipe deve escolher o repositório referente a um dos temas propostos:
 
 Em cada repositório há informações de como utilizar o GitHub para desenvolver sua proposta.
 
-### Contato
+### Ajuda
 
-Dúvidas sobre o GitHub ou repositórios? Instale o [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) e entre no nosso canal [HackNit](http://t.me/juliangutierrez).
+Dúvidas sobre o GitHub ou repositórios? Instale o [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) e entre no nosso canal [HackNitApoio](https://t.me/joinchat/BYx24Q0lDtHBc7P7gnfEOA).
 
 # Sobre o evento
 
