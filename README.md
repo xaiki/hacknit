@@ -14,7 +14,7 @@ Você deve escolher o repositório referente a um dos temas propostos:
 
 ### Organização
 
-Dúvidas sobre o GitHub ou repositórios? Entre no canal do Telegram [juliangutierrez](http://t.me/juliangutierrez).
+Dúvidas sobre o GitHub ou repositórios? Instale o [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) e entre no nosso canal [HackNit](http://t.me/juliangutierrez).
 
 ## Apresentação
 
