@@ -4,13 +4,13 @@
 
 Cada equipe deve escolher o repositório referente a um dos temas propostos:
 
-- [Conservação](https://github.com/seplagniteroi/conservacao)
-- [Educação](https://github.com/seplagniteroi/educacao)
-- [Meio Ambiente](https://github.com/seplagniteroi/meioambiente)
-- [Mobilidade Urbana](https://github.com/seplagniteroi/mobilidadeurbana)
-- [Saúde](https://github.com/seplagniteroi/saude)
-- [Segurança](https://github.com/seplagniteroi/seguranca)
-- [Voluntariado](https://github.com/seplagniteroi/voluntariado)
+- [Conservação](https://github.com/seplagniteroi/hacknit-conservacao)
+- [Educação](https://github.com/seplagniteroi/hacknit-educacao)
+- [Meio Ambiente](https://github.com/seplagniteroi/hacknit-meioambiente)
+- [Mobilidade Urbana](https://github.com/seplagniteroi/hacknit-mobilidadeurbana)
+- [Saúde](https://github.com/seplagniteroi/hacknit-saude)
+- [Segurança](https://github.com/seplagniteroi/hacknit-seguranca)
+- [Voluntariado](https://github.com/seplagniteroi/hacknit-voluntariado)
 
 Em cada repositório há informações de como utilizar o GitHub para desenvolver sua proposta.
 
